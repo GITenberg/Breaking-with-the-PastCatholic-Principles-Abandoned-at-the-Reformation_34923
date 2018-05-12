@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '37321'
     url: http://www.gutenberg.org/2009/agents/37321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34923#Breaking-with-the-PastCatholic-Principles-Abandoned-at-the-Reformation
 gutenberg_issued: '2011-01-12'
 gutenberg_type: Text
 identifiers:
