@@ -1,0 +1,38 @@
+_repo: Breaking-with-the-PastCatholic-Principles-Abandoned-at-the-Reformation_34923
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Farley, John M. (John Murphy)
+    aliases:
+    - Farley, J. M. (John Murphy)
+    - Farley, Cardinal
+    birthdate: 1842
+    deathdate: 1918
+    gutenberg_agent_id: '37322'
+    url: http://www.gutenberg.org/2009/agents/37322
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gasquet, Francis Aidan
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '37321'
+    url: http://www.gutenberg.org/2009/agents/37321
+description: ''
+gutenberg_issued: '2011-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Doctrines -- Catholic authors'
+- !lcc 'BX'
+tableOfContents: The Pope's authority -- The holy Mass -- The priesthood -- The church
+  by law established.
+title: Breaking with the Past; Or, Catholic Principles Abandoned at the Reformation
+url: http://www.gutenberg.org/ebooks/34923
